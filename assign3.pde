@@ -94,7 +94,6 @@ void draw() {
         enemyx2=-1340;
         enemyy2=random(269);
       }
-      println(enemyx2);
       //the thid enemy  
       int space = -50;
       for(int i =0;i>-spacing*5;i-=spacing){
